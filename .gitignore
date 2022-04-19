@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+# Editor
+.vscode
+.idea
+
+# Generic
+*.log
+*.backup
+
+# Go
+hc
+*.exe
+/dist/**
+cobra-docs
